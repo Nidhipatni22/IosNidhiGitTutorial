@@ -14,11 +14,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("My first test")
+        //
     }
 
     @IBAction func goToTab(_ sender: Any) {
         // commit 
     }
 
+    @IBAction func goToNext(_ sender: Any) {
+        // commit
+    }
 }
 
